@@ -14,8 +14,6 @@
 
   [**Live Demo** →][demo]
 
-  [![Beef Profile](assets/img/commons/beef.png)][demo]
-
 </div>
 
 ## Features
